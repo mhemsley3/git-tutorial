@@ -1,4 +1,5 @@
-# PHYS 6260 -- Computational Physics // Homework 1
+# Georgia Tech Physics REU CompPhys Workshop -- Git Tutorial
+
 Name: 
 
-Modify this file as instructed in the assignment description on Canvas.
+Modify this file as instructed in the tutorial description.
