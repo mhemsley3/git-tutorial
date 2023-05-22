@@ -1,4 +1,4 @@
-# Georgia Tech Physics REU CompPhys Workshop -- Git Tutorial
+# GT Physics REU Workshop -- Git Tutorial
 
 Name: 
 
