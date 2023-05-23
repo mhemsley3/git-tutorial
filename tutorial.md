@@ -1,6 +1,6 @@
 # Initial instructions
 
-* Use Github Desktop to create a git tag called “initial” in your repository by right-clicking the latest commit in your history.
+* Use [Github Desktop](https://desktop.github.com/) to create a git tag called “initial” in your repository by right-clicking the latest commit in your history.
 * Then create a new git branch called “readme” in your repository.
 * Checkout the “readme” branch and modify README.md to answer the following questions.
 
