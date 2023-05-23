@@ -2,4 +2,4 @@
 
 Name: 
 
-Modify this file as instructed in the tutorial description.
+Modify this file as instructed in the tutorial description.  See [this Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) for reference.
